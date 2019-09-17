@@ -1,29 +1,70 @@
 /*
-3B92C0 G
-FFDF00 Y
-F1871D Or
+ 
+#163D5C
+#1F6097
+#3AA99F
+#373014
 
-1278C4 B
-f12727 Red
-6d248b V
-
+#40120D
 */
 
 #ubon{
-	fill: #3B92C0;
+	fill: #163D5C;
 }
 #ubon:hover{
 	opacity: .5;
 }
 #sisaket{
-	fill: #FFDF00;
+	fill: #1F6097;
 }
 #sisaket:hover{
 	opacity: .5;
 }
 #surin{
-	fill: #F1871D;
+	fill: #3AA99F;
 }
 #surin:hover{
+	opacity: .5;
+}
+#cnx{
+	fill: #373014;
+}
+#cnx:hover{
+	opacity: .5;
+}
+#nnt{
+	fill: #163D5C;
+}
+#nnt:hover{
+	opacity: .5;
+}
+#hkt{
+	fill: #3AA99F;
+}
+#hkt:hover{
+	opacity: .5;
+}
+#bkk{
+	fill: #373014;
+}
+#bkk:hover{
+	opacity: .5;
+}
+#hh{
+	fill: #163D5C;
+}
+#hh:hover{
+	opacity: .5;
+}
+#kan{
+	fill: #1F6097;
+}
+#kan:hover{
+	opacity: .5;
+}
+#kohtao{
+	fill: #3AA99F;
+}
+#kohtao:hover{
 	opacity: .5;
 }
