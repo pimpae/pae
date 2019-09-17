@@ -1,0 +1,29 @@
+/*
+3B92C0 G
+FFDF00 Y
+F1871D Or
+
+1278C4 B
+f12727 Red
+6d248b V
+
+*/
+
+#ubon{
+	fill: #3B92C0;
+}
+#ubon:hover{
+	opacity: .5;
+}
+#sisaket{
+	fill: #FFDF00;
+}
+#sisaket:hover{
+	opacity: .5;
+}
+#surin{
+	fill: #F1871D;
+}
+#surin:hover{
+	opacity: .5;
+}

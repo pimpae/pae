@@ -1,0 +1,35 @@
+body{
+	/*background-color: #262626;*/
+	background:url(./bg.jpg);
+}
+.main-svg{
+	/*background-color: rgba(38,38,38,.5);*/
+}
+.main-svg svg{
+	height: 100vh;
+	padding: 50px;
+}
+.top-1 h2{
+	color: #262626;
+	position: absolute;
+	top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+ul.a{
+	list-style-type: circle;
+}
+ul.b{
+	list-style-type: square;
+}
+
+.blink {
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+   50% {
+      opacity: 0.2;
+   }
+}
