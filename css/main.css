@@ -5,10 +5,20 @@ body{
 .main-svg{
 	/*background-color: rgba(38,38,38,.5);*/
 }
-.main-svg svg{
-	height: 100vh;
-	z-index: 1 !important;
-	padding: 50px;
+
+@media only screen and (min-width: 992px) {  
+	.main-svg svg{
+		height: 100vh;
+		z-index: 1 !important;
+		padding: 50px;
+	}
+}
+@media only screen and (max-width: 991px) {  
+	.main-svg svg{
+		height: 500px;
+		z-index: 1 !important;
+		padding: 50px;
+	}
 }
 .top-1 .col{
 	position: absolute;
